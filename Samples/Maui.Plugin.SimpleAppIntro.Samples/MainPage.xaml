@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Maui.Plugin.SimpleAppIntro.Samples.MainPage">
+
+    <StackLayout Padding="20">
+        <Label
+            HorizontalOptions="CenterAndExpand"
+            LineBreakMode="WordWrap"
+            Text="Just a nice and simple AppIntro for your .NET MAUI project"
+            VerticalOptions="CenterAndExpand" />
+        <Button
+            BackgroundColor="Gray"
+            Clicked="Open_Default_Clicked"
+            HorizontalOptions="FillAndExpand"
+            Text="Default SimpleAppIntro Sample" />
+        <Button
+            BackgroundColor="Gray"
+            Clicked="Open_Icons_Clicked"
+            HorizontalOptions="FillAndExpand"
+            Text="Icons SimpleAppIntro Sample" />
+        <Button
+            BackgroundColor="Gray"
+            Clicked="Open_Static_Clicked"
+            HorizontalOptions="FillAndExpand"
+            Text="Open Static SimpleAppIntro Sample" />
+        <Button
+            BackgroundColor="Gray"
+            Clicked="Open_Clicked"
+            HorizontalOptions="FillAndExpand"
+            Text="Open Animated SimpleAppIntro Sample" />
+    </StackLayout>
+
+</ContentPage>
