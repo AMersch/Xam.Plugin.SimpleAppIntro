@@ -1,17 +1,17 @@
-[![nuget](https://img.shields.io/nuget/v/Xam.Plugin.SimpleAppIntro.svg)](https://www.nuget.org/packages/Xam.Plugin.SimpleAppIntro/) ![Nuget](https://img.shields.io/nuget/dt/Xam.Plugin.SimpleAppIntro)
+[![nuget](https://img.shields.io/nuget/v/Maui.Plugin.SimpleAppIntro.svg)](https://www.nuget.org/packages/Maui.Plugin.SimpleAppIntro/) ![Nuget](https://img.shields.io/nuget/dt/Maui.Plugin.SimpleAppIntro)
 
 ![Icon](https://raw.githubusercontent.com/galadril/Xam.Plugin.SimpleAppIntro/master/Samples/Xam.Plugin.SimpleAppIntro.Samples/Xam.Plugin.SimpleAppIntro.Samples.Android/Resources/mipmap-xxhdpi/Icon.png)
 
 
 # Xam.Plugin.SimpleAppIntro
-Just a nice and simple AppIntro for your Xamarin Forms project 
+Just a nice and simple AppIntro for your .NET MAUI project 
 
 
 # Setup
 * Available on Nuget:
-https://www.nuget.org/packages/Xam.Plugin.SimpleAppIntro
+https://www.nuget.org/packages/Maui.Plugin.SimpleAppIntro
 
-!!Install into your .net standaard project. !!
+!!Install into your .net standard project. !!
 
 
 # Example
